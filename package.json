@@ -1,0 +1,25 @@
+{
+  "name": "dungeoncrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "watch": "stylus -w -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zanshe/DungeonCrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zanshe/DungeonCrawler/issues"
+  },
+  "homepage": "https://github.com/Zanshe/DungeonCrawler#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "stylus": "^0.57.0"
+  }
+}

@@ -1,0 +1,1 @@
+body{padding:0;margin:0}#mainGrid{display:grid;margin:20px}.tile{border:1px solid #000;width:100%;height:100%;display:flex;justify-content:center;align-items:center}.tile.enemy{background-color:#f00}.tile.health{background-color:#008000}.tile.wall{background-color:#000}.tile.unexplored{background-color:#808080}.tile.player{background-color:#00f}
